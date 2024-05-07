@@ -12,4 +12,4 @@ def max(x, y):
     else:
         return y
 
-print("Le max est", max(4, 6))
+print("Le max est", max(3, 5))
