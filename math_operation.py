@@ -5,3 +5,5 @@ def min(x, y):  #definition de la fonction
         return y
     
 print("le min est", min(4, 6))
+
+def max(x, y):
